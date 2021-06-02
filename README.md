@@ -1,0 +1,2 @@
+# CovidInvaders
+Qt creator code
